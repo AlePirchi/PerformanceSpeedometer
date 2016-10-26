@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PerformanceSpeedo</string>
+    <string name="start">Start</string>
+    <string name="reset_info">Reset Info</string>
+</resources>
